@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672772150603",
+    "firebase_url": "https://phenix-club.firebaseio.com",
+    "project_id": "phenix-club",
+    "storage_bucket": "phenix-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672772150603:android:29f3394a88423a4d",
+        "android_client_info": {
+          "package_name": "com.efast.phenixclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672772150603-oc23kocglkcjaohcpm0gn3a0qs5uekok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.efast.phenixclub",
+            "certificate_hash": "ca0b50bdf888e262ec3fd658301f0a60348421a5"
+          }
+        },
+        {
+          "client_id": "672772150603-a5d2pmletm84surjhl5ncfnm7eu1t9tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmJASmOqAM--O5AjIM51iLfJogqCTVF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672772150603-a5d2pmletm84surjhl5ncfnm7eu1t9tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,6 @@
-# phoenix_club
+# Sport
 
-Phoenix Club GYM.
+Sport GYM application made using Flutter.
 
 ## Getting Started
 
